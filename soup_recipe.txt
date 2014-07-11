@@ -1,0 +1,8 @@
+stone_soup
+
+get a cauldron
+add water
+put three stones and water
+
+put on a fire until ready
+
